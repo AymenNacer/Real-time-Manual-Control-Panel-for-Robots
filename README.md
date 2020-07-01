@@ -18,7 +18,7 @@ to run this code :
 ![2](https://user-images.githubusercontent.com/67188835/86241598-0db98680-bb58-11ea-8264-5100e053905b.PNG)
 
 4. put the files in 'xampp\htdocs'
-5
+5. run Apache and MySQL in XAMPP
 
 ![4](https://user-images.githubusercontent.com/67188835/86241747-5a9d5d00-bb58-11ea-88b6-2be91afe2156.PNG)
 
