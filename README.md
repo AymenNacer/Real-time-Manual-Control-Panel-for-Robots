@@ -1,4 +1,4 @@
-# Real time Robot Controller
+# Real time Manual Robot Controller
 This code stores the robot controller instructions in database and display it on another php file using XAMPP in localhost
 
 * This repositery includes index.php file which contains the robot controller once a button is clicked it will be stored in a database
