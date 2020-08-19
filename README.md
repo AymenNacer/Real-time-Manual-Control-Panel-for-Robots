@@ -1,5 +1,5 @@
 # Real-time-Manual-Control-Panel-for-Robots
-This code stores the robot controller instructions in database and display it on another php file using XAMPP in localhost
+This code stores the robot control panel instructions in a database and displays it on another PHP file using XAMPP localhost.
 
 * This repositery includes index.php file which contains the robot controller once a button is clicked it will be stored in a database
 * The view.php will read from the database and display it 
